@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.12.3",
     "my-ip": "^1.1.1",
-    "camera-usb": "git+https://github.com/tcr/camera-usb#d848d82789b73d19f6e088fe910eeebfee289e52",
+    "camera-usb": "git+https://github.com/tcr/camera-usb#0d7b57d52a743ba9022aa85b16bda3b2ae72d362",
     "jpeg": "git+https://github.com/tcr/node-jpeg#d73b6e0bc1675eb339a709e297b41f35397121a6"
   },
   "devDependencies": {}
